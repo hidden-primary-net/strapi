@@ -8911,7 +8911,7 @@ __metadata:
     koa2-ratelimit: "npm:^1.1.3"
     lodash: "npm:4.18.1"
     motion: "npm:12.40.0"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     ora: "npm:5.4.1"
     p-map: "npm:4.0.0"
     passport-local: "npm:1.0.0"
@@ -9040,7 +9040,7 @@ __metadata:
     markdown-it-mark: "npm:^3.0.1"
     markdown-it-sub: "npm:^1.0.0"
     markdown-it-sup: "npm:1.0.0"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     prismjs: "npm:1.30.0"
     qs: "npm:6.15.3"
     react: "npm:18.3.1"
@@ -9094,7 +9094,7 @@ __metadata:
     jest: "npm:29.6.0"
     koa: "npm:2.16.4"
     lodash: "npm:4.18.1"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     qs: "npm:6.15.3"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
@@ -9492,7 +9492,7 @@ __metadata:
     jest: "npm:29.6.0"
     koa: "npm:2.16.4"
     lodash: "npm:4.18.1"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     qs: "npm:6.15.3"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
@@ -9659,7 +9659,7 @@ __metadata:
     koa-session: "npm:7.0.2"
     koa-static: "npm:^5.0.0"
     lodash: "npm:4.18.1"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     openapi-types: "npm:12.1.3"
     path-to-regexp: "npm:8.4.2"
     react: "npm:18.3.1"
@@ -9776,7 +9776,7 @@ __metadata:
     koa: "npm:2.16.4"
     koa2-ratelimit: "npm:^1.1.3"
     lodash: "npm:4.18.1"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     prop-types: "npm:^15.8.1"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
@@ -9935,7 +9935,7 @@ __metadata:
     koa: "npm:2.16.4"
     koa-body: "npm:6.0.1"
     lodash: "npm:4.18.1"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     react: "npm:18.3.1"
     react-dnd: "npm:16.0.1"
     react-dnd-html5-backend: "npm:16.0.1"
@@ -10208,7 +10208,7 @@ __metadata:
     koa-static: "npm:5.0.0"
     lodash: "npm:4.18.1"
     mime-types: "npm:2.1.35"
-    msw: "npm:2.13.4"
+    msw: "npm:2.14.6"
     prop-types: "npm:^15.8.1"
     qs: "npm:6.15.3"
     react: "npm:18.3.1"
@@ -23555,9 +23555,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"msw@npm:2.13.4":
-  version: 2.13.4
-  resolution: "msw@npm:2.13.4"
+"msw@npm:2.14.6":
+  version: 2.14.6
+  resolution: "msw@npm:2.14.6"
   dependencies:
     "@inquirer/confirm": "npm:^6.0.11"
     "@mswjs/interceptors": "npm:^0.41.3"
@@ -23570,7 +23570,7 @@ __metadata:
     outvariant: "npm:^1.4.3"
     path-to-regexp: "npm:^6.3.0"
     picocolors: "npm:^1.1.1"
-    rettime: "npm:^0.11.7"
+    rettime: "npm:^0.11.11"
     statuses: "npm:^2.0.2"
     strict-event-emitter: "npm:^0.5.1"
     tough-cookie: "npm:^6.0.1"
@@ -23584,7 +23584,7 @@ __metadata:
       optional: true
   bin:
     msw: cli/index.js
-  checksum: 10c0/f0f07366ee94549d32236c3762e57fe946333d6c77c2f4ff4ff0a36a8b5455b59ff86e0e78ef9d6ad80c84fbe29742c0c7edeeaa8f176fe9ffbce598fa97c882
+  checksum: 10c0/f6e6ca17c8e7fe4618381ce6352178a54d3b4c7abc23326db5937edf8bb91fcc259b2b6445983d30e0296ad262c01f789f2701adc166d4628d420eeafdcfdcf0
   languageName: node
   linkType: hard
 
@@ -26817,7 +26817,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rettime@npm:^0.11.7":
+"rettime@npm:^0.11.11":
   version: 0.11.11
   resolution: "rettime@npm:0.11.11"
   checksum: 10c0/021fc9d9870ce04f032952e63fc5576f3f8e7c9c15513b1a479a64646df90239802eef6d60a98cbfb6ac87bb623d4f120a8ee71193d02984e3d2915c28695f6e

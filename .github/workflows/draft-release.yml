@@ -53,7 +53,7 @@ jobs:
 
       # The action runs its TypeScript sources directly through Node's type stripping, which needs
       # Node >= 22.18. Pinned here rather than left to the runner image default.
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@v7
         with:
           node-version: 24
 

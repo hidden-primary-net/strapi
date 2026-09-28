@@ -8848,7 +8848,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-query: "npm:3.39.3"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     tsconfig: "npm:5.55.1"
     whatwg-fetch: "npm:3.6.2"
   peerDependencies:
@@ -8946,7 +8946,7 @@ __metadata:
     semver: "npm:7.7.4"
     sift: "npm:16.0.1"
     sonner: "npm:2.0.7"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     typescript: "npm:5.9.3"
     use-context-selector: "npm:1.4.4"
     vite: "npm:5.4.21"
@@ -9069,7 +9069,7 @@ __metadata:
     slate: "npm:0.94.1"
     slate-history: "npm:0.93.0"
     slate-react: "npm:0.98.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     yup: "npm:0.32.9"
     zod: "npm:4.4.3"
   peerDependencies:
@@ -9115,7 +9115,7 @@ __metadata:
     react-query: "npm:3.39.3"
     react-redux: "npm:8.1.3"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     typescript: "npm:5.9.3"
     yup: "npm:0.32.9"
   peerDependencies:
@@ -9175,7 +9175,7 @@ __metadata:
     react-query: "npm:3.39.3"
     react-redux: "npm:8.1.3"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     vitest: "catalog:"
     vitest-config: "npm:5.55.1"
     yup: "npm:0.32.9"
@@ -9416,7 +9416,7 @@ __metadata:
     react-intl: "npm:6.6.2"
     react-query: "npm:3.39.3"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     yup: "npm:0.32.9"
     zod: "npm:4.4.3"
   peerDependencies:
@@ -9516,7 +9516,7 @@ __metadata:
     react-query: "npm:3.39.3"
     react-redux: "npm:8.1.3"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     yup: "npm:0.32.9"
     zod: "npm:4.4.3"
   peerDependencies:
@@ -9597,7 +9597,7 @@ __metadata:
     react-dom: "npm:18.3.1"
     react-intl: "npm:6.6.2"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     tsconfig: "npm:5.55.1"
     typescript: "npm:5.9.3"
   peerDependencies:
@@ -9629,7 +9629,7 @@ __metadata:
     react-dom: "npm:18.3.1"
     react-intl: "npm:6.6.2"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     typescript: "npm:5.9.3"
     vitest: "catalog:"
     vitest-config: "npm:5.55.1"
@@ -9682,7 +9682,7 @@ __metadata:
     react-dom: "npm:18.3.1"
     react-intl: "npm:6.6.2"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     swagger-ui-dist: "npm:4.19.0"
     yaml: "npm:1.10.3"
     yup: "npm:0.32.9"
@@ -9731,7 +9731,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     tsconfig: "npm:5.55.1"
     typescript: "npm:5.9.3"
   peerDependencies:
@@ -9757,7 +9757,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     vitest: "catalog:"
     vitest-config: "npm:5.55.1"
   peerDependencies:
@@ -9800,7 +9800,7 @@ __metadata:
     react-query: "npm:3.39.3"
     react-redux: "npm:8.1.3"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     url-join: "npm:4.0.1"
     yup: "npm:0.32.9"
     zod: "npm:4.4.3"
@@ -9961,7 +9961,7 @@ __metadata:
     react-redux: "npm:8.1.3"
     react-router-dom: "npm:6.30.4"
     semver: "npm:7.7.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     yup: "npm:0.32.9"
   peerDependencies:
     "@strapi/admin": ^5.0.0
@@ -10230,7 +10230,7 @@ __metadata:
     react-router-dom: "npm:6.30.4"
     react-select: "npm:5.8.0"
     sharp: "npm:0.35.3"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     yup: "npm:0.32.9"
     zod: "npm:4.4.3"
   peerDependencies:
@@ -14903,7 +14903,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     typescript: "npm:^5"
   languageName: unknown
   linkType: soft
@@ -16228,7 +16228,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
     typescript: "npm:^5"
   languageName: unknown
   linkType: soft
@@ -18578,7 +18578,7 @@ __metadata:
     react-intl: "npm:6.6.2"
     react-router-dom: "npm:6.30.4"
     strapi-plugin-workspace-plugin: "workspace:*"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
   languageName: unknown
   linkType: soft
 
@@ -21244,7 +21244,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
   languageName: unknown
   linkType: soft
 
@@ -21265,7 +21265,7 @@ __metadata:
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
     react-router-dom: "npm:6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
   languageName: unknown
   linkType: soft
 
@@ -27653,7 +27653,7 @@ __metadata:
     react: "npm:^18.0.0"
     react-dom: "npm:^18.0.0"
     react-router-dom: "npm:^6.30.4"
-    styled-components: "npm:6.4.1"
+    styled-components: "npm:6.4.4"
   peerDependencies:
     "@strapi/strapi": "workspace:*"
   languageName: unknown
@@ -28128,9 +28128,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"styled-components@npm:6.4.1":
-  version: 6.4.1
-  resolution: "styled-components@npm:6.4.1"
+"styled-components@npm:6.4.4":
+  version: 6.4.4
+  resolution: "styled-components@npm:6.4.4"
   dependencies:
     "@emotion/is-prop-valid": "npm:1.4.0"
     css-to-react-native: "npm:3.2.0"
@@ -28148,7 +28148,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 10c0/33b43f55be02cecc4dd1904f0f4397c8a9f245ee67cd12893c9117651048a442555b527fdd25b4db8a0365701713cb0e91b09df16a4d46e175e3990041b45099
+  checksum: 10c0/ed574b053a85adab543958bde7eb80ea9bf6075dc0c54f8763b2d7251c4ce940a5151513fbc7af8c5be5100c387a55d0b175c0270a829ff37ec6f88b72ac4bca
   languageName: node
   linkType: hard
 

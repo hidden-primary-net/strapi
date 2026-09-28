@@ -8231,13 +8231,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sindresorhus/slugify@npm:1.1.0":
-  version: 1.1.0
-  resolution: "@sindresorhus/slugify@npm:1.1.0"
+"@sindresorhus/slugify@npm:1.1.2":
+  version: 1.1.2
+  resolution: "@sindresorhus/slugify@npm:1.1.2"
   dependencies:
     "@sindresorhus/transliterate": "npm:^0.1.1"
     escape-string-regexp: "npm:^4.0.0"
-  checksum: 10c0/3af19819c6b2c880a3629f0ed4386383b46d05a8efa7a71d647990a005480f8d6dd3f0348dbf4d37083278de7fb73151aba5fa0ad877b29e77233bb2cdd4e177
+  checksum: 10c0/f129267252a07f660bcc0e97d1ae10719b20ae6dd3b36ed343b99364df826fad1e65c0063b9cc2c1ddbeee36562d417a352aefc4d737a9908807d34d09211736
   languageName: node
   linkType: hard
 
@@ -9019,7 +9019,7 @@ __metadata:
     "@dnd-kit/utilities": "npm:3.2.2"
     "@radix-ui/react-toolbar": "npm:1.1.11"
     "@reduxjs/toolkit": "npm:1.9.7"
-    "@sindresorhus/slugify": "npm:1.1.0"
+    "@sindresorhus/slugify": "npm:1.1.2"
     "@strapi/admin": "npm:5.55.1"
     "@strapi/database": "npm:5.55.1"
     "@strapi/design-system": "npm:2.2.4"
@@ -9138,7 +9138,7 @@ __metadata:
     "@dnd-kit/sortable": "npm:10.0.0"
     "@dnd-kit/utilities": "npm:3.2.2"
     "@reduxjs/toolkit": "npm:1.9.7"
-    "@sindresorhus/slugify": "npm:1.1.0"
+    "@sindresorhus/slugify": "npm:1.1.2"
     "@strapi/admin": "npm:5.55.1"
     "@strapi/design-system": "npm:2.2.4"
     "@strapi/generators": "npm:5.55.1"
@@ -9464,7 +9464,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@strapi/generators@workspace:packages/generators/generators"
   dependencies:
-    "@sindresorhus/slugify": "npm:1.1.0"
+    "@sindresorhus/slugify": "npm:1.1.2"
     "@strapi/typescript-utils": "npm:5.55.1"
     "@strapi/utils": "npm:5.55.1"
     "@types/fs-extra": "npm:11.0.4"
@@ -10246,7 +10246,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@strapi/utils@workspace:packages/core/utils"
   dependencies:
-    "@sindresorhus/slugify": "npm:1.1.0"
+    "@sindresorhus/slugify": "npm:1.1.2"
     "@types/http-errors": "npm:2.0.4"
     "@types/jest": "npm:29.5.2"
     "@types/koa": "npm:2.15.2"

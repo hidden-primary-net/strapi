@@ -72,7 +72,7 @@
     "@dnd-kit/utilities": "3.2.2",
     "@radix-ui/react-toolbar": "1.1.11",
     "@reduxjs/toolkit": "1.9.7",
-    "@sindresorhus/slugify": "1.1.0",
+    "@sindresorhus/slugify": "1.1.2",
     "@strapi/design-system": "2.2.4",
     "@strapi/icons": "2.2.4",
     "@strapi/types": "5.55.1",

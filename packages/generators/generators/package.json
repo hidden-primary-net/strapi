@@ -49,7 +49,7 @@
     "watch": "run -T rollup -c -w"
   },
   "dependencies": {
-    "@sindresorhus/slugify": "1.1.0",
+    "@sindresorhus/slugify": "1.1.2",
     "@strapi/typescript-utils": "5.55.1",
     "@strapi/utils": "5.55.1",
     "chalk": "4.1.2",
